@@ -13,6 +13,15 @@ package org.example
  * Boolean -这表示一个布尔值，可以是true或false。
  * String -这些是以字符串的形式表示的文本。例如，“Hello World”的。
  *
+ * 数字类
+ * 类型除了基本类型，还允许以下对象类型（有时称为包装器类型）-
+ * java.lang.Byte
+ * java.lang.Short
+ * java.lang.Integer
+ * java.lang.Long
+ * java.lang.Float
+ * java.lang.Double
+ *
  * @author gujun@qiyi.com
  * @since 2020/1/14 5:07 下午
  */
